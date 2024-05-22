@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px auto;
+    max-width: 800px;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+/* Style the edit link */
+.mw-editsection {
+    margin-left: 5px;
+    margin-left: x-small;
+    font-size: x-small;
+    color: #777;
+}
+
+a {
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+.infobox {
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+    width: 22em;
+}
+
+#fallbackButton {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
